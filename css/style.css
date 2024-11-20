@@ -21,3 +21,24 @@
     margin-left: -5px;
     border-radius: 2px;
 }
+
+.bg-brand{
+    background-color: #ececec;
+}
+.card-body:hover{
+    background-color: white;
+}
+
+.card-title{
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.card-price{
+    font-size: 18px;
+    color: #f57724;
+}
+
+.card-text{
+    font-size: 12px;
+}
